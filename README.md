@@ -1,4 +1,4 @@
-## Watashi-app
+## Nextjs Next-Auth Starter
 
 A WebApp to customise a profile with interests and hobbies and share with public.
 
@@ -9,7 +9,7 @@ A WebApp to customise a profile with interests and hobbies and share with public
 - React
 - TailWindCSS
 - Prisma
-- PlanetScale
+- PostgreSQL
 
 ## Getting Started
 
