@@ -1,6 +1,6 @@
 ## Nextjs Next-Auth Starter
 
-A WebApp to customise a profile with interests and hobbies and share with public.
+
 
 ## TechStack
 
